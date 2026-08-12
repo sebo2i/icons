@@ -1,3 +1,3 @@
 # icons
 
-macOS Apps Icons
+macOS Apps icons repository
